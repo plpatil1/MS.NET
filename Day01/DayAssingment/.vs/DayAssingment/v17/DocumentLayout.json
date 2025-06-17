@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dtnet\\DayAssingment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0203E84-CF60-4884-90E3-D764DC53669E}|Question13\\Question13.csproj|c:\\dtnet\\dayassingment\\question13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0203E84-CF60-4884-90E3-D764DC53669E}|Question13\\Question13.csproj|solutionrelative:question13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECDC6E3-9168-4884-BF13-784DB922776E}|Question12\\Question12.csproj|c:\\dtnet\\dayassingment\\question12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECDC6E3-9168-4884-BF13-784DB922776E}|Question12\\Question12.csproj|solutionrelative:question12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908F9476-B68B-44C6-8D1E-326C7ABF7CC2}|Question11\\Question11.csproj|c:\\dtnet\\dayassingment\\question11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908F9476-B68B-44C6-8D1E-326C7ABF7CC2}|Question11\\Question11.csproj|solutionrelative:question11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8F629-2B1A-420F-B510-F5FEA6DA5FCF}|Question10\\Question10.csproj|c:\\dtnet\\dayassingment\\question10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8F629-2B1A-420F-B510-F5FEA6DA5FCF}|Question10\\Question10.csproj|solutionrelative:question10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC313C14-8F01-4638-B619-FEF0EDAA5D93}|Question9\\Question9.csproj|c:\\dtnet\\dayassingment\\question9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC313C14-8F01-4638-B619-FEF0EDAA5D93}|Question9\\Question9.csproj|solutionrelative:question9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718018AE-6944-43C5-960A-36E57A309711}|Questiion10\\Questiion10.csproj|c:\\dtnet\\dayassingment\\questiion10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718018AE-6944-43C5-960A-36E57A309711}|Questiion10\\Questiion10.csproj|solutionrelative:questiion10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E877D35-C6D8-45BE-9CC2-0C7894074D9C}|Question8\\Question8.csproj|c:\\dtnet\\dayassingment\\question8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E877D35-C6D8-45BE-9CC2-0C7894074D9C}|Question8\\Question8.csproj|solutionrelative:question8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1182D-1E72-4FBA-A225-132188008BD0}|Question7\\Question7.csproj|c:\\dtnet\\dayassingment\\question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1182D-1E72-4FBA-A225-132188008BD0}|Question7\\Question7.csproj|solutionrelative:question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA651D0E-81FA-4D09-9D3C-24A4F0FB4633}|Question6\\Question6.csproj|c:\\dtnet\\dayassingment\\question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA651D0E-81FA-4D09-9D3C-24A4F0FB4633}|Question6\\Question6.csproj|solutionrelative:question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE69E51-C7A0-44DB-AB65-F68ECA7215B5}|Question1\\Question1.csproj|c:\\dtnet\\dayassingment\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE69E51-C7A0-44DB-AB65-F68ECA7215B5}|Question1\\Question1.csproj|solutionrelative:question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50DC837-679C-407E-91DD-035A8CCF86D7}|Question5\\Question5.csproj|c:\\dtnet\\dayassingment\\question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50DC837-679C-407E-91DD-035A8CCF86D7}|Question5\\Question5.csproj|solutionrelative:question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A11AEF9-4F5F-4009-8AE4-93BB91474A72}|Question4\\Question4.csproj|c:\\dtnet\\dayassingment\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A11AEF9-4F5F-4009-8AE4-93BB91474A72}|Question4\\Question4.csproj|solutionrelative:question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42391597-93D4-4D9F-8EB2-38C0F7753DB4}|Question3\\Question3.csproj|c:\\dtnet\\dayassingment\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42391597-93D4-4D9F-8EB2-38C0F7753DB4}|Question3\\Question3.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F3EE05-BBAF-495D-886A-11DEBC3C84B2}|Question2\\Question2.csproj|c:\\dtnet\\dayassingment\\question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F3EE05-BBAF-495D-886A-11DEBC3C84B2}|Question2\\Question2.csproj|solutionrelative:question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question13\\Program.cs",
+              "RelativeDocumentMoniker": "Question13\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question13\\Program.cs",
+              "RelativeToolTip": "Question13\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:06:51.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question12\\Program.cs",
+              "RelativeDocumentMoniker": "Question12\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question12\\Program.cs",
+              "RelativeToolTip": "Question12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:23:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question11\\Program.cs",
+              "RelativeDocumentMoniker": "Question11\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question11\\Program.cs",
+              "RelativeToolTip": "Question11\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:12:23.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question10\\Program.cs",
+              "RelativeDocumentMoniker": "Question10\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question10\\Program.cs",
+              "RelativeToolTip": "Question10\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:02:05.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Questiion10\\Program.cs",
+              "RelativeDocumentMoniker": "Questiion10\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Questiion10\\Program.cs",
+              "RelativeToolTip": "Questiion10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:40:55.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question9\\Program.cs",
+              "RelativeDocumentMoniker": "Question9\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question9\\Program.cs",
+              "RelativeToolTip": "Question9\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:27:10.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question8\\Program.cs",
+              "RelativeDocumentMoniker": "Question8\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question8\\Program.cs",
+              "RelativeToolTip": "Question8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:23:53.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question7\\Program.cs",
+              "RelativeDocumentMoniker": "Question7\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question7\\Program.cs",
+              "RelativeToolTip": "Question7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:15:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question6\\Program.cs",
+              "RelativeDocumentMoniker": "Question6\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question6\\Program.cs",
+              "RelativeToolTip": "Question6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:03:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question5\\Program.cs",
+              "RelativeDocumentMoniker": "Question5\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question5\\Program.cs",
+              "RelativeToolTip": "Question5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:44:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question4\\Program.cs",
+              "RelativeDocumentMoniker": "Question4\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question4\\Program.cs",
+              "RelativeToolTip": "Question4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:42:21.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question3\\Program.cs",
+              "RelativeDocumentMoniker": "Question3\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question3\\Program.cs",
+              "RelativeToolTip": "Question3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:40:18.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question2\\Program.cs",
+              "RelativeDocumentMoniker": "Question2\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question2\\Program.cs",
+              "RelativeToolTip": "Question2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:27:36.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dtnet\\DayAssingment\\Question1\\Program.cs",
+              "RelativeDocumentMoniker": "Question1\\Program.cs",
+              "ToolTip": "C:\\dtnet\\DayAssingment\\Question1\\Program.cs",
+              "RelativeToolTip": "Question1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:26:30.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\dtnet\DayAssingment\Question11\bin\Debug\net8.0\Question11.exe
+C:\dtnet\DayAssingment\Question11\bin\Debug\net8.0\Question11.deps.json
+C:\dtnet\DayAssingment\Question11\bin\Debug\net8.0\Question11.runtimeconfig.json
+C:\dtnet\DayAssingment\Question11\bin\Debug\net8.0\Question11.dll
+C:\dtnet\DayAssingment\Question11\bin\Debug\net8.0\Question11.pdb
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\Question11.GeneratedMSBuildEditorConfig.editorconfig
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\Question11.AssemblyInfoInputs.cache
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\Question11.AssemblyInfo.cs
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\Question11.csproj.CoreCompileInputs.cache
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\Question11.dll
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\refint\Question11.dll
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\Question11.pdb
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\Question11.genruntimeconfig.cache
+C:\dtnet\DayAssingment\Question11\obj\Debug\net8.0\ref\Question11.dll

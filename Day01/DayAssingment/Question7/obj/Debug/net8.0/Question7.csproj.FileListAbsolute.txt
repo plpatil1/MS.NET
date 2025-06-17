@@ -1,0 +1,14 @@
+C:\dtnet\DayAssingment\Question7\bin\Debug\net8.0\Question7.exe
+C:\dtnet\DayAssingment\Question7\bin\Debug\net8.0\Question7.deps.json
+C:\dtnet\DayAssingment\Question7\bin\Debug\net8.0\Question7.runtimeconfig.json
+C:\dtnet\DayAssingment\Question7\bin\Debug\net8.0\Question7.dll
+C:\dtnet\DayAssingment\Question7\bin\Debug\net8.0\Question7.pdb
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\Question7.GeneratedMSBuildEditorConfig.editorconfig
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\Question7.AssemblyInfoInputs.cache
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\Question7.AssemblyInfo.cs
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\Question7.csproj.CoreCompileInputs.cache
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\Question7.dll
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\refint\Question7.dll
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\Question7.pdb
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\Question7.genruntimeconfig.cache
+C:\dtnet\DayAssingment\Question7\obj\Debug\net8.0\ref\Question7.dll
